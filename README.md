@@ -8,21 +8,21 @@ Here we describe the solution.
 
 # DATASET
 
-We provide dataset description the links to the data.
+We provide a dataset description and links to the data.
 
-# INSTALATION
+# INSTALLATION
 
-We show how to setup project and how to rerun experiments.
-Show project dependencies e.g. by adding requirements.txt. 
+We show how to set up the project and how to rerun experiments.
+Show project dependencies, e.g., by adding requirements.txt. 
 
 # REFERENCES
 
-References to papers, code, datasets etc.
+References to papers, code, datasets, etc.
 
 # LICENSE
 
-Provide license. We suggest:
+Provide a license. We suggest:
 
-[mit license](./mit.txt)
+[MIT license](./mit.txt)
 
 
