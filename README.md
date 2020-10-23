@@ -23,6 +23,6 @@ References to papers, code, datasets etc.
 
 Provide license. We suggest:
 
-mit.txt
+[mit license](./mit.txt)
 
 
